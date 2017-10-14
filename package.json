@@ -1,0 +1,27 @@
+{
+  "name": "gomanager-exporter",
+  "version": "1.0.0",
+  "description": "Exporter Tool for accounts stored it GoManager data file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name" : "Ramiro Aparicio",
+    "email" : "rapariciog@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/friscoMad/GoManagerExporter.git"
+  },
+  "keywords": [
+    "GoManager",
+    "PokemonGo",
+    "PoGo"
+  ],
+  "bugs": {
+    "url": "https://github.com/friscoMad/GoManagerExporter/issues"
+  },
+  "homepage": "https://github.com/friscoMad/GoManagerExporter#readme"
+}
